@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdullah
-- 👀 I’m interested in streaming and building websites
+- 👀 I’m interested in building websites and discord apps
 - 🌱 I’m currently learning Javascript, java, C++
 - 📫 You can reach out to me via discord [@monster20](https://discord.com/users/170115708871507970)
 

@@ -1,11 +1,27 @@
-- 👋 Hi, I’m Abdullah
-- 👀 I’m interested in building websites and discord apps
-- 🌱 I’m currently learning Javascript, java, C++
-- 📫 You can reach out to me via discord [@monster20](https://discord.com/users/170115708871507970)
+### Hi, I'm Abdullah
 
-![Monster2025's GitHub stats](https://github-readme-stats.vercel.app/api?username=devabdullahs&show_icons=true&include_all_commits=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&count_private=true)
+I build **websites** and **Discord apps** — from UI polish to the glue that connects services and bots.
 
-<!---
-devandullahs/monster2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Right now I'm focused on:** JavaScript & TypeScript, plus **Java** and **C++** as I deepen my CS fundamentals.
+
+**Reach me on Discord:** [@monster20](https://discord.com/users/170115708871507970)
+
+---
+
+<p align="center">
+  <img
+    alt="GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=devabdullahs&show_icons=true&include_all_commits=true&hide_border=true&title_color=7A7ADB&icon_color=7A7ADB&text_color=D3D3D3&bg_color=0D1117&count_private=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    alt="Top languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devabdullahs&layout=compact&hide_border=true&title_color=7A7ADB&text_color=D3D3D3&bg_color=0D1117"
+  />
+</p>
+
+<!--
+  devabdullahs/devabdullahs is a special repository: this README appears on your GitHub profile.
+-->

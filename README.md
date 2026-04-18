@@ -15,13 +15,18 @@ I build **websites** and **Discord apps** — from UI polish to the glue that co
   />
 </p>
 
+**Stack & tools** *(profile language charts only see **public** repos — most of my work is private, so here’s what I actually use):*
+
 <p align="center">
-  <img
-    alt="Top languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devabdullahs&layout=compact&hide_border=true&title_color=7A7ADB&text_color=D3D3D3&bg_color=0D1117"
-  />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
 
 <!--
   devabdullahs/devabdullahs is a special repository: this README appears on your GitHub profile.
+  Top-langs cards from github-readme-stats only aggregate public repositories unless you self-host with a PAT.
 -->
